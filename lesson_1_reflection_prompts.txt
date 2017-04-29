@@ -1,0 +1,41 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    comparing parts will lead into thinking and digging for reason of implementation
+	small typos can be find easily
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    check what was there before and after update maybe something is not working anymore
+	old version will help to find reason
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manual saving means that I will have a logical part is changed and I know what was the intention of the saving, but I may get lost last changes if computer is crashing.
+	Auto saving creates a lot of not working or not finished changes and it will be hard to find working version, therefore every change is saved and also computer crash leads not into lost files.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    different usage, e.g. one is for programming and the other one for documents
+
+How can you use the commands git log and git diff to view the history of files?
+
+    navigate to path of project, e.g. "cd C:\Users\ZeusTC\Git_Projects\asteroids"
+	then enter "git log" -> revisions will be displayed
+	to quit revision history "q" must be pressed
+	
+	differences between two versions (commits) can be displayed with "git diff ID1 ID2",
+	where ID1 is the commit ID of Version 1 and ID2 of Version 2
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Every larger change should be seperated in smaller steps and get a new commit.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    First try a few times if it is a usefull tool. Maybe I have to change to another tool with graphical interface.
