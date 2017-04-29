@@ -10,6 +10,8 @@ It is a kind of container for files, which should be committed. So it must not i
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+->>
+staging area can be used as a kind of pre save memory
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
