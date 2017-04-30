@@ -19,6 +19,8 @@ organized? How would branches help?
 for experimental stuff we can have a clean and working branch and can experiment on a second branch instead of disturbing the official version
 
 How do the diagrams help you visualize the branch structure?
+->>
+Same IDs can be identified and they are the starting points of new branches
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
