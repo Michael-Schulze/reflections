@@ -30,3 +30,6 @@ Graph is used to represent the parents of changes.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+->>
+Automatic merge is fine for simple changes, which are not influencing each other, but there is the risk that useless code will be integrated.
+Manual merges are good to get best possible code, but it has the risk to forget something.
