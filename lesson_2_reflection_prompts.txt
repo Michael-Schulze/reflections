@@ -24,6 +24,9 @@ Same IDs can be identified and they are the starting points of new branches
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+->>
+We get same lines of code between the versions together and all additional lines, but removed lines will not be copied.
+Graph is used to represent the parents of changes.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
