@@ -8,6 +8,9 @@ I only want to push working changes into Github and not everything what I am try
 
 Describe the differences between forks, clones, and branches.  When would you use one instead of another?
 ->>
+Fork is a special clone on GitHub only, where a project of other user is cloned to your account. I would use it, if I need something existing with some special changes for me only.
+Clone is a copie of the whole repository and can be local or remote.
+Branch is a section of a repository, can be used for testing some featerus without destroying the master path.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 ->>
