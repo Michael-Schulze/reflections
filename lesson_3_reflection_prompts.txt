@@ -23,3 +23,4 @@ It would be harder to see the changes of other developers and it is harder to co
 
 When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 ->>
+Every change which affects the behaviour significantly should be done on branch. Also every new feature, where several people work on.
